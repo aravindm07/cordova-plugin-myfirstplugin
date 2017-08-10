@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-myfirstplugin",
+  "version": "1.0.0",
+  "description": "My First Cordova Plugin",
+  "keywords": [
+    "cordova",
+    "phonegap",
+    "cordova-android",
+    "cordova-ios",
+    "android",
+    "ios"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aravindm07/cordova-plugin-myfirstplugin.git"
+  },
+  "author": {
+    "name": "Weston Ganger",
+    "email": "westonganger@gmail.com",
+    "url": "solidfoundationwebdev.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/aravindm07/cordova-plugin-myfirstplugin.git",
+  "typings": "",
+  "dependencies": {
+    "cordova": "*"
+  },
+  "devDependencies": {}
+}
