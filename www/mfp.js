@@ -1,5 +1,3 @@
-/*Author: Aravind*/
-
 /*global cordova, module*/
 module.exports = {
     greet: function (name, successCallback, errorCallback) {
