@@ -1,5 +1,3 @@
-/*Author: Aravind*/
-
 package com.aravind.workspace;
 
 import org.apache.cordova.*;
