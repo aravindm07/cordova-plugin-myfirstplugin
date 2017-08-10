@@ -18,10 +18,10 @@
   <platform name="android">
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="MFPAndroid">
-        <param name="android-package" value="com.aravind.workspace.MFPAndroid.java"/>
+        <param name="android-package" value="com.aravind.workspace.MFPAndroid"/>
       </feature>
     </config-file>
-    <source-file src="src/android/MFPAndroid.java" target-dir="src/com/example/plugin/"/>
+    <source-file src="src/android/MFPAndroid.java" target-dir="src/com/aravind/workspace"/>
   </platform>
   
 </plugin>
